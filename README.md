@@ -30,13 +30,13 @@ This repository contains the official implementation for the paper:
 
 
 ## 📁 Project Structure
-
+```
 ├── Model/                                # Neural network weights
 ├── example/                              # Executable code
 ├── pde_control_gym/                      # Gym enviroment for PIDEs with spatially varying delay
 ├── tb/                                   # data of tensorboard
 └── README.md
-
+```
 ## 📌 Citation
 If you find this repository helpful, please consider citing our paper:
 
